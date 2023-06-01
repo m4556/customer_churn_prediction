@@ -1,6 +1,6 @@
 ###  Project Overview
 
-Retaining customers is key to a company's success, especially in an industry as competitive as wireless services. Acquiring new customers is not only more difficult, but also much more costly to companies than maintaining existing customer relationships. In this notebook, I will predict behavior to retain customers at a home phone and internet service provider called Telco. I'll first use exploratory data analysis to understand the relationships between the features and the target variable and identify factors that are influential in predicting customer attrition. Using these features, I'll develop a predictive model to help the company proactively reduce their churn rate and use insights from the model to strengthen their customer retention strategies.
+Retaining customers is key to a company's success, especially in an industry as competitive as wireless services. Acquiring new customers is not only more difficult, but also much more costly to companies than maintaining existing customer relationships. In these notebooks, exploratory data analysis is performed to understand the relationships between the features and the target variable and identify factors that are influential in predicting customer attrition. Using these features, a predictive model is developed to help the company proactively reduce their churn rate and use insights from the model to strengthen their customer retention strategies.
 
 ### Dataset
 Dataset contains 19 independent variables, which can be classified into 3 groups:
