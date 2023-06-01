@@ -13,6 +13,6 @@ Dataset contains 19 independent variables, which can be classified into 3 groups
 
 
 ### Some visual
-<img src="https://github.com/m4556/t/blob/main/New%20Project%20(1).png" width="600" >
+<img src="https://github.com/m4556/customer_churn_prediction/blob/main/data/img.png" width="600" >
 
 
